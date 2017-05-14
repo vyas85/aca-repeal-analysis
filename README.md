@@ -1,8 +1,8 @@
 # Repealing Obamacare: A Visual Analysis
 
-##Languages Used: JavaScript, D3.js
+### Languages Used: JavaScript, D3.js
 
-## URL: http://people.ischool.berkeley.edu/~vyas.swaminathan/
+### URL: http://people.ischool.berkeley.edu/~vyas.swaminathan/
 
 
 The Patient Protection & Affordable Care Act, often shortened to ACA and nicknamed Obamacare, is a United States federal statute enacted by the 111th United States Congress and signed into law by President Barack Obama on March 23rd 2010. The repeal of the Medicaid expansion and collapse of the individual insurance market, as a result of the repeal of the ACA, could threaten strides the country has made in advancing the health care of the nation, rural America particularly.
